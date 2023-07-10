@@ -1,0 +1,19 @@
+{
+  "name": "kfish_draineth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "drainETH.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.6",
+    "axios": "^0.27.2",
+    "buffer": "^6.0.3",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "web3": "^1.7.5"
+  }
+}
